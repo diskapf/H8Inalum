@@ -1,6 +1,6 @@
 # H8Inalum
 
-##H8 Inalum contain project from Hacktiv8  PTP for Inalum
+## H8 Inalum contains project from Hacktiv8  PTP for Inalum
 
 ### Table of Contents:
 
